@@ -1,9 +1,9 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Guadalinex v6
+# Fichero de configuración de paquetes de personalización de Guadalinex v10
 
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: guadalinexv9-mint-artwork-common-conf
+name: guadalinexv10-mint-artwork-common-conf
 
 # Autor 
 author: David Amian Valle <damian@emergya.es>
@@ -15,14 +15,14 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "Guadalinex v9 meta package which modifies the mint-artwork-common package."
+shortdesc: "Guadalinex v10 meta package which modifies the mint-artwork-common package."
 
 # Descipción larga, las lineas han de estar separadas por "\n "
 longdesc: "This metapackage modifies pixmaps from LM 13."
 
 
 # Versión del paquete
-version: 9.0
+version: 10.0
 
 # Cambios en esta versión
 changes:
